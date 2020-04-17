@@ -1,0 +1,29 @@
+.modal-dialog {
+    position: fixed;
+    width: 400px;
+    height: 200px;
+    border: 1px solid black;
+    background-color: white;
+    z-index: 1;
+    
+}
+
+.modal-header {
+    background-color: grey;
+    height: 20%;
+    font: 20px bold;
+
+}
+
+.modal-title {
+
+}
+
+.modal-content {
+
+}
+
+.modal-buttons {
+    bottom: 0;
+    align-content: right;
+}
